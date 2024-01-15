@@ -1,4 +1,0 @@
-LevelUrl: http://42.63.70.4:8086/api/go/levelIps
-CoolingWaterUrl: http://42.63.70.4:8086/api/go/coolWaterIps
-WeightUrl: http://42.63.70.4:8086/api/go/weightIps
-DataSource:  root:hxzBZ@123@tcp(114.116.233.181:3306)/jxf?charset=utf8mb4&parseTime=true&loc=Asia%2FShanghai
